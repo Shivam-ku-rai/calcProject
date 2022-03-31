@@ -4,5 +4,5 @@
   tasks:
     - name: Pull image
       docker_image:
-        name: vtandonv/calculatorusingdevopslatest
+        name: shivam2021123/calcproj
         source: pull
